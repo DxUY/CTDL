@@ -1,0 +1,16 @@
+﻿  Check_Nhap.cpp
+  DSDocGia.cpp
+  DauSach.cpp
+  Muon_Tra.cpp
+  Ngay_Thang.cpp
+C:\Users\Minh Duy\Downloads\CTDL-main\thu_vien\Ngay_Thang.cpp(120,16): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Minh Duy\Downloads\CTDL-main\thu_vien\Ngay_Thang.cpp(125,21): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Minh Duy\Downloads\CTDL-main\thu_vien\Ngay_Thang.cpp(146,40): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Minh Duy\Downloads\CTDL-main\thu_vien\Ngay_Thang.cpp(151,33): warning C4018: '<=': signed/unsigned mismatch
+  Ve_Hinh.cpp
+  XuLyTam.cpp
+  Xu_Ly.cpp
+  mylib.cpp
+  thu_vien.cpp
+  Generating Code...
+  thu_vien.vcxproj -> C:\Users\Minh Duy\Downloads\CTDL-main\thu_vien\x64\Debug\thu_vien.exe
